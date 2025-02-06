@@ -1,6 +1,8 @@
-These are few scripts showcasing my training in privilege escalation methods used in windows penetration testing.
+<h1> Description </h1>
 
-<hr
+This repository showcases my training in privilege escalation methods used in windows penetration testing.
+
+<hr>
 
 The UACBypass script uses the DelegateExecute technique. It runs fodhelper.exe, modifies a registry that tweaks it to pop a shell instead of continuing its normal execution.
 
